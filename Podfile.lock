@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (3.4.0)
+  - GoogleMaps (1.13.2)
+  - GooglePlaces (1.0.4):
+    - Alamofire (~> 3.0)
+    - ObjectMapper (~> 1.0)
+  - ObjectMapper (1.3.0)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlaces
+
+SPEC CHECKSUMS:
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  GoogleMaps: b20a103ff307f58392e603cf142e59d7e30374c1
+  GooglePlaces: af82dff8b6699dd59fdbf8ec9b3ad170e5f2217a
+  ObjectMapper: 4eb08a726e9791a93b2632049951b56a7c17e471
+
+PODFILE CHECKSUM: 0b99b00797664d43088d5a1e9287a03016887524
+
+COCOAPODS: 1.0.1
